@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Nov 12 13:11:44 EST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0175-bda7-fa9f-000001e3b650 
+on database directory /home/osboxes/Big_data/Big_data/exercises/metastore_db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@7aec35a 
+Loaded from file:/opt/spark/spark-3.0.1-bin-hadoop2.7/jars/derby-10.12.1.1.jar
+java.vendor=Azul Systems, Inc.
+java.runtime.version=11.0.1+13-LTS
+user.dir=/home/osboxes/Big_data/Big_data/exercises
+os.name=Linux
+os.arch=amd64
+os.version=4.15.0-54-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
